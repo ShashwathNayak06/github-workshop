@@ -24,18 +24,6 @@ const participants = [
     skills: ["Hosteller"],
   },
   {
-    name: "Bhavish HK",
-    username: "BhavishHK",
-    description: "SomeOne Creative",
-    skills: ["Python", "Figma", "Java"],
-  },
-  {
-    name: "Briana Menezes",
-    username: "BrianaMenezes",
-    description: "A software engineer who loves to learn and share knowledge.",
-    skills: ["JavaScript", "React", "Node.js"],
-  },
-  {
     name: "Shashwath Nayak",
     username: "ShashwathNayak06",
     description:
@@ -48,6 +36,18 @@ const participants = [
     description:
       "Technically an octopus. Professionally a cat. Has been on GitHub longer than everyone here and has never once committed.",
     skills: ["Existing", "Being Mascot"],
+  },
+  {
+    name: "Bhavish HK",
+    username: "BhavishHK",
+    description: "SomeOne Creative",
+    skills: ["Python", "Figma", "Java"],
+  },
+  {
+    name: "Briana Menezes",
+    username: "BrianaMenezes",
+    description: "A software engineer who loves to learn and share knowledge.",
+    skills: ["JavaScript", "React", "Node.js"],
   },
   {
     name: "Goutham devadiga",
@@ -205,5 +205,23 @@ const participants = [
     username: "shreyassaradka",
     description: "Developer for a reason",
     skills: ["github"],
+  },
+  {
+    name: "Athiksh",
+    username: "Athiksh2006",
+    description: "One short line about yourself.",
+    skills: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    name: "Prathik Rao",
+    username: "rao07prathik07-bit",
+    description: "One short line about yourself.",
+    skills: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    name: "Pratham Shetty",
+    username: "prathamshetty18",
+    description: "One short line about yourself.",
+    skills: ["HTML", "CSS", "JavaScript"],
   },
 ];
