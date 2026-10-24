@@ -32,6 +32,12 @@ const participants = [
     skills: ["Existing", "Being Mascot"]
   },
   {
+    name: "Samyak G Rao",
+    username: "imashwaaa",
+    description: "error 404",
+    skills: ["Java", "Python"]
+  },
+  {
      name: "Aditri Pradeep Kumar",
     username: "Adi-3-tri",
     description: "First time using github.",
